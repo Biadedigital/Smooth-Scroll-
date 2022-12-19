@@ -14,4 +14,4 @@ creating smooth scroll with React Js
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/Smooth-Scroll?v=1)
-- [Code-on-Github](https://github.com/Biadedigital/BD-Portfolio)
+- [Code-on-Github](https://github.com/Biadedigital/Smooth-Scroll-)
